@@ -58,7 +58,7 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	padding: 2em 10vw;
+	padding: 2em 10vw 1em;
 }
 
 nav a {
@@ -88,23 +88,34 @@ section {
 	width: 90%;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
 	margin: 0.5em 0;
 }
 
-img {
-	width: 90%;
-	margin: 0.5em 0;
+p a {
+  color: orange;
+  transition: all 0.2s ease;
 }
 
+p a:hover {
+  color: #e4e4e4a6;
+}
 
+img {
+	width: 100%;
+	margin: 0.5em 0;
+}
 
 /*  ============================= M E D I A Q U E R I E S ============================= */
 
 @media only screen and (max-width: 700px) {
 
 	nav a {
-		font-size: 1.2em;
+		font-size: 1em;
 	}
 
 	nav {
@@ -115,5 +126,10 @@ img {
 	li {
 		padding: 0 0.5em;
 	}
+
+	p {
+		font-size: 1em;
+	}
+
 
 }
