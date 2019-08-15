@@ -39,11 +39,15 @@ insert poem or quote here -->
 
 <!-- Preload fonts -->
 
-<link rel="preload" href="./assets/fonts/roboto-v20-latin-regular.woff.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="./assets/fonts/arimo-v13-latin-regular.woff.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="./assets/fonts/roboto-v20-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="./assets/fonts/arimo-v13-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
 
+<!-- Link CSS -->
 
 <link rel="stylesheet" href="./assets/css/style.css">
+
+<!-- Link favicons -->
+
 <link rel="icon" type="image/png" href="assets/favicon/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="assets/favicon/favicon-16x16.png" sizes="16x16"/>
 
@@ -52,14 +56,20 @@ insert poem or quote here -->
 <body>
 
 	<nav>
-	<div><a href="/home">home</a></div>
-	<div><a href="/about">about</a></div>
-	<div><a href="/projects">projects</a></div>	
-    <div><a href="/papers">papers</a></div>
-    <div><a href="/etc">etc.</a></div>
+		<ul>
+			<li><a href="/home">home</a></li>
+			<li><a href="/about">about</a></li>
+			<li><a href="/projects">projects</a></li>	
+    		<li><a href="/papers">papers</a></li>
+    		<li><a href="/etc">etc.</a></li>
+		</ul>
   	</nav>
 
-	{{ content }}
+  	<main>
+  		<section>
+			{{ content }}
+		</section>
+	</main>
 
 </body>
 </html>
