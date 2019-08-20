@@ -52,6 +52,7 @@ h1 {
 
 h1 a {
 	color: #e4e4e4a6;
+	text-shadow: 0 0 20px white, 0 0 30px white, 0 0 50px white, 0 0 70px white;
 }
 
 h1 a:hover {
@@ -59,7 +60,7 @@ h1 a:hover {
 }
 
 p {
-	font-size: 1.3em;
+	font-size: 1.25em;
 }
 
 /*  ============= A R C H I T E C T U R E ============ */
@@ -79,7 +80,7 @@ header {
 h1 {
 	margin: 0;
 	padding: 5px;
-	border: 5px dotted orange;
+	/*border: 5px dotted orange;*/
 	display: inline-block;
 }
 
@@ -138,7 +139,11 @@ img {
 @media only screen and (max-width: 700px) {
 
 	nav a {
-		font-size: 1em;
+		font-size: 1.25em;
+	}
+
+	h1 {
+		font-size: 1.25em;
 	}
 
 	nav {
