@@ -45,14 +45,16 @@ nav a:hover {
 }
 
 h1 {
-	font-size: 1.563em;
-	font-weight: lighter;
+	font-family: Orbitron;
+	font-size: 1.953em;
+	letter-spacing: 10px;
+	font-weight: 700;
 	transition: all 0.2s ease;
 }
 
 h1 a {
 	color: #e4e4e4a6;
-	text-shadow: 0 0 20px white, 0 0 30px white, 0 0 50px white, 0 0 70px white;
+	/*text-shadow: 0 0 20px white, 0 0 30px white, 0 0 50px white, 0 0 70px white;*/
 }
 
 h1 a:hover {
@@ -74,7 +76,7 @@ body {
 
 header {
 	text-align: center;
-	padding-top: 1vh;
+	padding-top: 2vh;
 }
 
 h1 {
