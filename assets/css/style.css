@@ -2,33 +2,6 @@
 
 /* =============== T Y P O G R A P H Y ================ */
 
-/* orbitron-regular - latin */
-@font-face {
-  font-family: 'Orbitron';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Orbitron Regular'), local('Orbitron-Regular'),
-       url('./fonts/orbitron-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-}
-
-/* arimo-regular - latin */
-@font-face {
-  font-family: 'Arimo';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Arimo Regular'), local('Arimo-Regular'),
-       url('./fonts/arimo-v13-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-}
-
-/* roboto-regular - latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'),
-       url('./fonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-}
-
 html {font-size: 16px}
 
 body {
