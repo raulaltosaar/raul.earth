@@ -42,23 +42,27 @@ nav a {
 
 nav a:hover {
 	color: orange;
+	text-shadow: 0 0 10px orange, 0 0 10px orange;
 }
 
 h1 {
 	font-family: Orbitron;
-	font-size: 1.953em;
+	font-size: 2.5em;
 	letter-spacing: 10px;
-	font-weight: 700;
 }
 
 h1 a {
-	color: #e4e4e4a6;
+	color: black;
+	/*#e4e4e4a6;*/
 	transition: all 0.2s ease;
+	-webkit-text-stroke: 0.1px orange;
+	text-stroke: 0.1px orange;
 	/*text-shadow: 0 0 20px white, 0 0 30px white, 0 0 50px white, 0 0 70px white;*/
 }
 
 h1 a:hover {
 	color: orange;
+	text-shadow: 0 0 10px orange, 0 0 20px orange;
 }
 
 p {
