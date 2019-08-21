@@ -2,6 +2,15 @@
 
 /* =============== T Y P O G R A P H Y ================ */
 
+/* orbitron-regular - latin */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Orbitron Regular'), local('Orbitron-Regular'),
+       url('./fonts/orbitron-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+}
+
 /* arimo-regular - latin */
 @font-face {
   font-family: 'Arimo';
@@ -29,6 +38,24 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+h1 {
+	font-family: Orbitron, Helvetica, Arial, sans-serif;
+	font-size: 2.5em;
+	letter-spacing: 10px;
+}
+
+h1 a {
+	color: black;
+	transition: all 0.2s ease;
+	-webkit-text-stroke: 0.1px orange;
+	text-stroke: 0.1px orange;
+}
+
+h1 a:hover {
+	color: orange;
+	text-shadow: 0 0 10px orange, 0 0 20px orange;
+}
+
 nav a {
 	font-size: 1.563em;
 	font-family: Roboto, Helvetica, Arial, sans-serif;
@@ -43,26 +70,6 @@ nav a {
 nav a:hover {
 	color: orange;
 	text-shadow: 0 0 10px orange, 0 0 10px orange;
-}
-
-h1 {
-	font-family: Orbitron;
-	font-size: 2.5em;
-	letter-spacing: 10px;
-}
-
-h1 a {
-	color: black;
-	/*#e4e4e4a6;*/
-	transition: all 0.2s ease;
-	-webkit-text-stroke: 0.1px orange;
-	text-stroke: 0.1px orange;
-	/*text-shadow: 0 0 20px white, 0 0 30px white, 0 0 50px white, 0 0 70px white;*/
-}
-
-h1 a:hover {
-	color: orange;
-	text-shadow: 0 0 10px orange, 0 0 20px orange;
 }
 
 p {
