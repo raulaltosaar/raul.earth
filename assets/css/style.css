@@ -37,7 +37,7 @@ nav a {
 }
 
 nav a {
-	color: #e4e4e4a6;
+	color: #a7a7a7;
 }
 
 nav a:hover {
@@ -51,12 +51,15 @@ p {
 
 /*  ============= A R C H I T E C T U R E ============ */
 
+/* ======= B O D Y ======= */
 body {
 	background-color: #0c0c0c;
 	margin: 0 0 0 0;
 	height: 100%;
 	width: 100%;
 }
+
+/* ======= N A V ======= */
 
 header {
 	text-align: center;
@@ -69,7 +72,6 @@ h1 {
 	/*border: 5px dotted orange;*/
 	display: inline-block;
 }
-
 
 nav {
 	width: 80vw;
@@ -89,6 +91,8 @@ li {
 	padding: 1em;
 	display: inline;
 }
+
+/* ======= P A G E  C O N T E N T ======= */
 
 main {
 	display: flex;
@@ -112,12 +116,21 @@ p a {
 }
 
 p a:hover {
-  color: #e4e4e4a6;
+  color: #a7a7a7;
 }
 
 img {
 	width: 100%;
 	margin: 0.5em 0;
+}
+
+/* ======= F O O T E R ======= */
+
+#footer {
+	width: 2em;
+	display: inline-flex;
+	justify-content: space-around;
+	fill: #a7a7a7;
 }
 
 /*  ============================= M E D I A Q U E R I E S ============================= */
