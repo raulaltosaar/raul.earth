@@ -14,7 +14,6 @@ body {
 h1 {
 	font-family: Orbitron, Helvetica, Arial, sans-serif;
 	font-size: 2.5em;
-	letter-spacing: 10px;
 }
 
 h1 a {
@@ -22,6 +21,8 @@ h1 a {
 	transition: all 0.2s ease;
 	-webkit-text-stroke: 0.1px orange;
 	text-stroke: 0.1px orange;
+	margin-right: -10px;
+	letter-spacing: 10px;
 }
 
 h1 a:hover {
@@ -155,7 +156,7 @@ img {
 
 .footer-icons a:hover {
 	fill: orange;
-	filter: drop-shadow(0 0 7px orange) drop-shadow(0 0 17px orange);
+	filter: drop-shadow(0 0 7px orange) drop-shadow(0 0 10px orange);
 }
 
 /*  ============================= M E D I A Q U E R I E S ============================= */
@@ -167,7 +168,7 @@ img {
 	}
 
 	h1 {
-		font-size: 1.25em;
+		font-size: 1.563em;
 	}
 
 	nav {
@@ -179,5 +180,12 @@ img {
 		font-size: 1em;
 	}
 
+}
+
+@media only screen and (max-width: 360px) {
+
+	nav a {
+		font-size: 1em;
+	}
 
 }
