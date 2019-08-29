@@ -9,6 +9,7 @@ body {
 	color: white;
 	font-weight: lighter;
 	-webkit-font-smoothing: antialiased;
+	cursor: url(../icon/bug-min.png), auto;
 }
 
 h1 {
@@ -28,6 +29,7 @@ h1 a {
 h1 a:hover {
 	color: orange;
 	text-shadow: 0 0 10px orange, 0 0 20px orange;
+	cursor: url(../icon/bug-min.png), auto;
 }
 
 nav a {
@@ -35,6 +37,7 @@ nav a {
 	font-family: Roboto, Helvetica, Arial, sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
+	cursor: url(../icon/bug-min.png), auto;
 }
 
 nav a {
@@ -44,6 +47,7 @@ nav a {
 nav a:hover {
 	color: orange;
 	text-shadow: 0 0 10px orange, 0 0 10px orange;
+	cursor: url(../icon/bug-min.png), auto;
 }
 
 p {
@@ -125,7 +129,9 @@ p a {
 
 p a:hover {
   color: #a7a7a7;
-  text-shadow: 0 0 10px #a7a7a7, 0 0 30px #a7a7a7;
+  /*text-shadow: 0 0 10px #a7a7a7, 0 0 30px #a7a7a7;*/
+  cursor: url(../icon/bug-min.png), auto;
+
 }
 
 img {
@@ -157,6 +163,7 @@ img {
 .footer-icons a:hover {
 	fill: orange;
 	filter: drop-shadow(0 0 7px orange) drop-shadow(0 0 10px orange);
+	cursor: url(../icon/bug-min.png), auto;
 }
 
 /*  ============================= M E D I A Q U E R I E S ============================= */
