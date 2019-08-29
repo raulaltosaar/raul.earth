@@ -3,7 +3,7 @@ layout: default
 title: About - Raul Altosaar
 permalink: /about
 ---
-<p style="text-align: center">🐛🐞🐛 Coming soon, currently under development. 🐛🐞🐛</p>
+<p style="text-align: center">🐞 Coming soon, currently under development. 🐞</p>
 
 <!-- I am an artist and researcher. Currently, I am developing customized musical interfaces using virtual reality technology, sensors, and code. These systems prioritize the relationship between my body and the material world. This results in musical performances that are physically demanding and site‑specific.
 

@@ -5,4 +5,4 @@ permalink: /papers
 ---
 
 
-<p style="text-align: center">🐛🐞🐛 Coming soon, currently under development. 🐛🐞🐛</p>
+<p style="text-align: center">🐞 Coming soon, currently under development. 🐞</p>
