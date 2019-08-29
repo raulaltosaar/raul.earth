@@ -1,9 +1,12 @@
 ---
-title: Raul Altosaar
+title: etc. - Raul Altosaar
 layout: default
-permalink: /other-work
+permalink: /etc
 ---
-<html>
+
+<p style="text-align: center">🐛🐞🐛 Coming soon, currently under development. 🐛🐞🐛</p>
+
+<!-- <html>
 
 <section class="projects">
 
@@ -41,4 +44,4 @@ permalink: /other-work
 
 </article>
 </section>
-</html>
+</html> -->
