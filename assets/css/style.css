@@ -2,7 +2,9 @@
 
 /* =============== T Y P O G R A P H Y ================ */
 
-html {font-size: 16px}
+html {
+	font-size: 16px;
+}
 
 body {
 	font-family: Arimo, Helvetica, Arial, sans-serif;
@@ -58,7 +60,15 @@ p {
 
 /*  ========================= A R C H I T E C T U R E ====================== */
 
+html{
+	overflow: scroll;
+    overflow-x: hidden;
+}
 
+::-webkit-scrollbar {
+	width: 0px;
+	background: transparent;
+}
 
 /* ======= B O D Y ======= */
 body {
@@ -171,10 +181,15 @@ img {
 
 	nav a {
 		font-size: 1.25em;
+		font-weight: 550;
 	}
 
 	h1 {
 		font-size: 1.563em;
+	}
+
+	h1 a {
+		-webkit-text-stroke: thin orange;
 	}
 
 	nav {
