@@ -1,5 +1,5 @@
 # raul.earth
-A bare-bones, responsive, and Jekyll-powered personal website and portfolio. Up at https://raul.earth.
+A no-nonsense, bare-bones, grumpily responsive personal website and portfolio. Up at https://raul.earth. 
 
 ## TODO
 
