@@ -1,7 +1,7 @@
 ---
-title: etc. - Raul Altosaar
+title: Seeds - Raul Altosaar
 layout: default
-permalink: /etc
+permalink: /seeds
 ---
 
 <p style="text-align: center">🐞 Coming soon, currently under development. 🐞</p>
