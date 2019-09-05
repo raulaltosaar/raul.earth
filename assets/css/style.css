@@ -140,6 +140,10 @@ h2 {
 	font-size: 1.953em;
 }
 
+h2 a {
+	border-bottom: 2px solid #a7a7a7;
+}
+
 .project-date h2 {
 	text-align: center;
 }
@@ -162,9 +166,9 @@ h2 {
 	transition: all .2s ease;
 }*/
 
-.project a:hover /*h2 */{
+/*.project a:hover h2 {
 	color: orange;
-}
+}*/
 
 .project img {
 	transition: all .3s ease;
