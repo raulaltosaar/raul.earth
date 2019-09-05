@@ -16,12 +16,12 @@ body {
 
 h1 {
 	font-family: Orbitron, Helvetica, Arial, sans-serif;
-	font-size: 2.5em;
+	font-size: 3em;
 }
 
 h1 a {
 	color: black;
-	transition: all 0.2s ease;
+	transition: all 0.7s ease-out;
 	text-shadow:
 	-1px -1px 0 orange,
     1px -1px 0 orange,
@@ -51,7 +51,7 @@ nav a {
 
 nav a:hover {
 	color: orange;
-	text-shadow: 0 0 10px orange, 0 0 10px orange;
+	text-shadow: 0 0 5px orange;
 	cursor: url(../icon/bug-min.png), auto;
 }
 
@@ -101,7 +101,7 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	padding: 0.5em 10vw;
+	padding: 0.7em 10vw 0px;
 }
 
 ul {
@@ -111,7 +111,7 @@ ul {
 }
 
 nav li {
-	padding: 1em;
+	padding: 0px 1em;
 	display: inline;
 }
 
@@ -122,7 +122,6 @@ nav li {
 main {
 	display: flex;
 	align-items: center;
-	/*flex-direction: column;*/
 	justify-content: center;
 }
 
@@ -142,7 +141,6 @@ p a {
 
 p a:hover {
   color: #a7a7a7;
-  /*text-shadow: 0 0 10px #a7a7a7, 0 0 30px #a7a7a7;*/
   cursor: url(../icon/bug-min.png), auto;
 }
 
@@ -188,16 +186,20 @@ img {
 	}
 
 	h1 {
-		font-size: 1.563em;
+		font-size: 2em;
 	}
 
 	nav {
 		width: 100vw;
-		padding: 1em 0em;
+		padding: 0.5em 0em 1em 0em;
 	}
 
 	p {
 		font-size: 1em;
+	}
+
+	section {
+		margin-top: -17px;
 	}
 
 }
