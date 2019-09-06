@@ -55,6 +55,19 @@
 
 <link rel="icon" type="image/png" href="assets/icon/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="assets/icon/favicon-16x16.png" sizes="16x16"/>
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+<script>
+    $(function () {
+        $('nav a').each(function () {
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('selected');
+            }
+        });
+    });
+</script>
 
 </head>
 
