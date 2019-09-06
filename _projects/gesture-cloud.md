@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Depth Cloud
-permalink: /depth-cloud
+title: Gesture Cloud
+permalink: /gesture-cloud
 ---
 
 <article class="project">
 
-<img src="assets/img/projects/depth-cloud/pigeons_2.jpg">
+<img src="assets/img/projects/gesture-cloud/pigeons_2.jpg">
 
 ### Depth Cloud
 
@@ -18,8 +18,8 @@ My role in the project focused on technically implementing our solutions in Unre
 
 A final proof-of-concept of the animated point clouds can be viewed [here](https://vimeo.com/287691875).
 
-<img src="assets/img/projects/depth-cloud/white_cloud.jpg">
+<img src="assets/img/projects/gesture-cloud/white_cloud.jpg">
 
-<img src="assets/img/frontpage/depth_cloud.jpg">
+<img src="assets/img/projects/gesture-cloud/gesture-cloud.jpg">
 
 </article>
