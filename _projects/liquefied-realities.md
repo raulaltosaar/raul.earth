@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Liquefied Realities
+title: Liquefied Realities - Raul Altosaar
 permalink: /liquefied-realities
 ---
 

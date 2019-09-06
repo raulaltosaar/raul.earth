@@ -9,11 +9,15 @@ permalink: /projects
 
 <div class="project">
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe class="lazy" data-src="https://player.vimeo.com/video/347904695?color=ff9933&byline=0&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="lazy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<a href="/live">
 
-<h2>Live.</h2>
+<img class="lazy" data-src="../assets/img/projects/live/altosaar-featured-image-2.jpg">
 
-<h3>My undergraduate thesis research culminated in a series of visceral musical performances. These were crafted using the <a href="/a-very-real-looper">Very Real Looper</a>&mdash;an interface built out of a repurposed VR system&mdash;and detritus scavenged from industrial wastelands.</h3>
+<h2 class="arrow">Live.</h2>
+
+<h3>A series of visceral musical performances crafted using the Very Real Looper&mdash;an interface built out of a repurposed VR system&mdash;and detritus scavenged from industrial wastelands.</h3>
+
+</a>
 
 </div>
 
@@ -28,6 +32,7 @@ permalink: /projects
 <h2 class="arrow">A Very Real Looper</h2>
 
 <h3>A custom musical interface that enables virtual sounds to be placed anywhere in physical space. Music is then performed by touching objects and jumping around wildly.</h3>
+
 </a>
 
 </div>
