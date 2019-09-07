@@ -12,6 +12,6 @@ My work has appeared at conferences including the ACM international conference o
 You can find my CV here. -->
 
 <html>
-<img class="lazy" data-src="/assets/img/misc/rafull.jpg">
+<img class="lazy" data-src="/assets/img/pages/about/rafull.jpg">
 </html>
 

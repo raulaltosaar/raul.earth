@@ -16,6 +16,6 @@ permalink: /a-very-real-looper
 
 A custom musical interface developed for the HTC Vive VR system. The Looper lets you place virtual sounds onto physical objects and perform music—without a headset. 
 
-The interface is now open-source and you can read the technical breakdown on [Github](https://github.com/raulaltosaar/a-very-real-looper){:target="_blank"}.
+The interface is now open-source. You can read the technical breakdown on [Github](https://github.com/raulaltosaar/a-very-real-looper){:target="_blank"}.
 
 </div>

@@ -4,7 +4,24 @@ layout: default
 permalink: /seeds
 ---
 
-<p style="text-align: center">🐞 Coming soon, currently under development. 🐞</p>
+<div class="project">
+
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/655004264&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
+
+  <h3>The sound of life&mdash;pulsating, throbbing, frothing&mdash;on a damaged planet. Sonic material includes screaming bugs, landmine ambience, Estonian nature worship, cricket percussion, shattered smartphone synths, and shepherd flutes.</h3>
+
+</div>
+
+
+
+
+<div class="project">
+
+  <img class="lazy" data-src="../assets/img/pages/seeds/kariina_raul_hands_print.jpg">
+
+  <h3>A collaborative drawing created with my family. Exhibited by a group of planetary LARPers in a convience store in Ho Chi Minh City.</h3>
+
+</div>
 
 <!-- <html>
 
