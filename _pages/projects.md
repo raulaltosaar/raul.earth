@@ -93,7 +93,7 @@ permalink: /projects
 
 <h2>Alliance</h2>
 
-<h3>A speculative, location-based AR application. Designed to reveal non-human creatures and forces in urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a></h3>
+<h3>A speculative, location-based AR application designed to reveal non-human creatures in urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a></h3>
 
 </div>
 

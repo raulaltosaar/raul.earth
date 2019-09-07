@@ -56,6 +56,7 @@ nav a:hover {
 }
 
 h2 {
+	font-size: 1.953em;
 	font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 
@@ -98,7 +99,6 @@ header {
 }
 
 h1 {
-	margin: 0;
 	padding: 5px;
 	display: inline;
 }
@@ -138,10 +138,12 @@ section {
 }
 
 h2 {
-	margin: 0.5em 0em 0.3em;
-	font-size: 1.953em;
+	margin: 0.4em 0;
 }
 
+h3 {
+	margin: 0.4em 0;
+}
 .arrow::after {
 	content:"→";
 	margin-left: 7px;
@@ -154,10 +156,6 @@ h2 {
 	text-decoration: none;
 	color: white;
 	transition: all .2s ease;
-}
-
-.project h3 {
-	margin-top: 1em;
 }
 
 .project h3 a {
@@ -186,10 +184,6 @@ h2 {
 	transform: scale(1.04);
 }
 
-h3 {
-	margin: 0px;
-}
-
 .project {
 	margin: 1.5em 0px 50px;
 }
@@ -209,7 +203,7 @@ p a:hover {
 
 img {
 	width: 100%;
-	margin: 1em 0 0;
+	margin: 1.3em 0 0;
 }
 
 .case {

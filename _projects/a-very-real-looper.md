@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Very Real Looper
+title: A Very Real Looper - Raul Altosaar
 permalink: /a-very-real-looper
 ---
 
@@ -14,10 +14,8 @@ permalink: /a-very-real-looper
 
 ## A Very Real Looper ##
 
-A custom musical interface developed for the HTC Vive VR system. The Looper lets you place virtual sounds onto physical objects and perform music—without a headset. The interface is now open-source and you can read the technical breakdown on [Github](https://github.com/raulaltosaar/a-very-real-looper){:target="_blank"}.
+A custom musical interface developed for the HTC Vive VR system. The Looper lets you place virtual sounds onto physical objects and perform music—without a headset. 
 
----
-
-In November 2018 I was invited to present and perform with this project at the [Music In New Technologies](http://mintconference.ca/) conference in Halifax, Nova Scotia. This work was also featured in [a group exhibition](https://belindakwan.com/files/multiplecontingencies_catalogue.pdf) at the Society for Literature, Science, and the Arts conference in Toronto, Ontario.
+The interface is now open-source and you can read the technical breakdown on [Github](https://github.com/raulaltosaar/a-very-real-looper){:target="_blank"}.
 
 </div>
