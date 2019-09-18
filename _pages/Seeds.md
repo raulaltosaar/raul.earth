@@ -4,24 +4,66 @@ layout: default
 permalink: /seeds
 ---
 
-<div class="project">
+<html>
+
+<div class="seed">
 
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/655004264&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
-  <h3>The sound of life&mdash;pulsating, throbbing, frothing&mdash;on a damaged planet. Sonic material includes screaming bugs, landmine ambience, Estonian nature worship, cricket percussion, shattered smartphone synths, and shepherd flutes.</h3>
+  <p>I made a mixtape to explore the sound of life throbbing on a damaged planet; the sound of entire worlds rising and falling, screaming out of grief and elation.</p>
 
 </div>
 
 
-
-
-<div class="project">
+<div class="seed">
 
   <img class="lazy" data-src="../assets/img/pages/seeds/kariina_raul_hands_print.jpg">
+  <img class="lazy" data-src="../assets/img/pages/seeds/snapdragon.jpg">
 
-  <h3>A collaborative drawing created with my family. Exhibited by a group of planetary LARPers in a convience store in Ho Chi Minh City.</h3>
+  <p>My family and I created this digital drawing that was later <a href="http://undergroundflower.com/snapdragon.html" target="_blank">exhibited inside a corner store in Ho Chi Minh City, Vietnam</a>. In the image, you can see my sister and I holding the remnants of an ancient tradition in which molten lead is cast into cold water and used to foretell our family's fate in the new year.</p>
 
 </div>
+
+<div class="seed">
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class="lazy" data-src='https://www.youtube.com/embed/Kb0CDXasjiE' frameborder='0' title ='0' allowfullscreen modestbranding='1' showinfo='0'></iframe></div>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class="lazy" data-src='https://www.youtube.com/embed/p-NkMdxFHtY' frameborder='0' title ='0' allowfullscreen modestbranding='1' showinfo='0'></iframe></div>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class="lazy" data-src='https://www.youtube.com/embed/d4KXmJRE3HU' frameborder='0' allowfullscreen></iframe></div>
+
+<p>I <a href="https://www.youtube.com/playlist?list=PLPn69OMwH-byEcKC3_Rthq6Il8-PevHgB" target="_blank">collect videos</a> of non-human forces including air compressors singing in unison, nibbling mice, and dandelion seeds self-organizing in the wind.</p>
+
+</div>
+
+<div class="seed">
+
+<img class="lazy" data-src="/assets/img/pages/seeds/a.jpg">
+<img class="lazy" data-src="/assets/img/pages/seeds/b.jpg">
+
+<p>In 2017 I performed a series of LARPed rituals with my sister and various other collaborators. Documentation from these experiences was exhibited in <a href="https://thewrong.org/about" target="_blank">The Wrong New Digital Art Biennale</a> in Hong Kong and Seoul, and was also featured on <a href="https://www.aqnb.com/2017/11/15/why-do-we-appropriate-life-hacking-into-taught-identity-with-fantasy-direct-group-show-at-seouls-yongma-charm-space/" target="_blank">AQNB</a> and <a href="http://tzvetnik.online/portfolio_page/fantasy-direct-yongma-land-charm-space/" target="_blank">Tzvetznik.</a></p>
+
+</div>
+
+<div class="seed">
+
+<iframe class="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/649914882%3Fsecret_token%3Ds-ZrJ5M&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<p>I intermittently craft noise music and mixtapes under the alias of <a href="https://soundcloud.com/destroyer_12" target="_blank">DESTROYER_12</a>. Humans have described this work as "ecological <a href="https://en.wikipedia.org/wiki/Gabber" target="_blank">gabber</a>" and "music that guides the listener through the portals of liminality". My music has been released by <a href="https://bratrecords.bandcamp.com/album/brat-compilation-volume-2-vesna" target="_blank">BRAT Records</a> and has been featured in <a href="https://soundcloud.com/discmagazine/disc-024-floating-rooftop-healing-mix-destroyer_12" target="_blank">Disc Magazine</a>.</p>
+
+</div>
+
+<div class="seed">
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe class="lazy" data-src='https://www.youtube.com/embed/R61n22gTkdo' frameborder='0' title ='0' allowfullscreen modestbranding='1' showinfo='0'></iframe></div>
+
+<p>In 2017 I made a 360º artwork about blue pandas from outer space, emergent lifeforms, and non-linear love. The soundtrack was composed using crowdsourced audio recordings collected from fifty classmates and family members. <a href="https://soundcloud.com/exilevevo/i-may-not-be-ready-2-shit-out-a-liquid-diamond-and-share-it-but-i-can-try-kenji-remix" target="_blank">Remixed by Kenji Yamamoto.</a></p>
+
+
+</div>
+
+
+</html>
 
 <!-- <html>
 

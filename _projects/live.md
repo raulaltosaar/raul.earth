@@ -12,12 +12,18 @@ permalink: /live
 
 My undergraduate thesis research culminated in a series of visceral musical performances crafted using the [Very Real Looper](/a-very-real-looper)&mdash;an interface built out of a repurposed VR system&mdash;and detritus scavenged from industrial wastelands.
 
+<html>
+<img class="lazy" data-src="assets/img/projects/live/altosaar-tempe.jpg">
+<figcaption>Live at the Tempe Center for the Arts. Photo by Aehong Min.</figcaption>
+
+</html>
+
 ---
 
 This work has been performed at:
 * [The CURRENTS New Media Festival](https://meowwolf.com/2019/06/13/currents-new-media-2019-opening-night-recap){:target="_blank"}
-* [OCAD's 104th Annual Graduate Exhibition](https://www2.ocadu.ca/news/join-ocad-university-for-gradex-104-torontos-largest-free-art-and-design-exhibition){:target="_blank"} (won Best Thesis in Program medal)
-* [The Tempe Arts Centre, as part of TEI2019](https://tei.acm.org/2019/program/arts-track.html#performance){:target="_blank"}
+* [OCAD's 104th Annual Graduate Exhibition](https://www2.ocadu.ca/news/join-ocad-university-for-gradex-104-torontos-largest-free-art-and-design-exhibition){:target="_blank"} (won Best Thesis in Program)
+* [The Tempe Center for the Arts, as part of TEI2019](https://tei.acm.org/2019/program/arts-track.html#performance){:target="_blank"}
 * [Electric Perfume](http://electricperfume.com/whats-on/static-gestures/){:target="_blank"}
 * [The Music In New Technologies Conference](https://vimeo.com/303631624){:target="_blank"}
 * [The Intergalactic Travel Authority](https://vimeo.com/294810067){:target="_blank"}
