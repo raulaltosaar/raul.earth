@@ -4,7 +4,7 @@ title: A Very Real Looper - Raul Altosaar
 permalink: /a-very-real-looper
 ---
 
-<div class="case">
+<div class="project">
 
 <html>
 

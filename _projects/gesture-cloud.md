@@ -4,7 +4,7 @@ title: Gesture Cloud - Raul Altosaar
 permalink: /gesture-cloud
 ---
 
-<div class="case">
+<div class="project">
 
 <img class="lazy" data-src="assets/img/projects/gesture-cloud/pigeons_2.jpg">
 

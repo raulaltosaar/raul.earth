@@ -11,7 +11,7 @@ permalink: /projects
 
 <a href="/live">
 
-<img class="lazy" data-src="../assets/img/projects/live/altosaar-featured-image-2.jpg">
+<img class="lazy scale" data-src="../assets/img/projects/live/altosaar-featured-image-2.jpg">
 
 <h2 class="arrow">Live.</h2>
 
@@ -27,7 +27,7 @@ permalink: /projects
 
 <a href="/a-very-real-looper">
 
-<img class="lazy" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg">
+<img class="lazy scale" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg">
 
 <h2 class="arrow">A Very Real Looper</h2>
 
@@ -43,7 +43,7 @@ permalink: /projects
 
 <a href="/liquefied-realities">
 
-<img class="lazy" data-src="../assets/img/projects/liquefied-realities/1stroom.jpg">
+<img class="lazy scale" data-src="../assets/img/projects/liquefied-realities/1stroom.jpg">
 
 <h2 class="arrow">Liquefied Realities</h2>
 
@@ -59,7 +59,7 @@ permalink: /projects
 
 <a href="/computationally-disintegrative-therapy">
 
-<img class="lazy" data-src="../assets/img/projects/computationally-disintegrative-therapy/standing.jpg">
+<img class="lazy scale" data-src="../assets/img/projects/computationally-disintegrative-therapy/standing.jpg">
 
 <h2 class="arrow">Computationally Disintegrative Therapy</h2>
 
@@ -75,7 +75,7 @@ permalink: /projects
 
 <a href="/gesture-cloud">
 
-<img class="lazy" data-src="../assets/img/projects/gesture-cloud/pigeons_2.jpg">
+<img class="lazy scale" data-src="../assets/img/projects/gesture-cloud/pigeons_2.jpg">
 
 <h2 class="arrow">Gesture Cloud</h2>
 
@@ -89,13 +89,16 @@ permalink: /projects
 
 <div class="project">
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe class="lazy" data-src="https://player.vimeo.com/video/302964429?color=ff9933&byline=0&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="lazy"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<a href="/alliance">
 
-<h2>Alliance</h2>
+<img class="lazy scale" data-src="../assets/img/projects/alliance/alliance_flag.jpg">
 
-<h3>A speculative, location-based AR application designed to reveal non-human creatures in urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a></h3>
+<h2 class="arrow">Alliance</h2>
+
+<h3>A speculative AR application designed to reveal uncanny creatures in urban wastelands.</h3>
+
+</a>
 
 </div>
-
 
 </html>

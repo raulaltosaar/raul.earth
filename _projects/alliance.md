@@ -1,0 +1,21 @@
+---
+layout: default
+title: Alliance - Raul Altosaar
+permalink: /alliance
+---
+
+<div class="project">
+
+<html>
+
+<div style="padding:56.25% 0 0 0;position:relative;" class="iframe"><iframe src="https://player.vimeo.com/video/302964429?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</html>
+
+## Alliance ## 
+
+A speculative, location-based AR application designed to reveal non-human creatures in specific urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a> 
+
+This proof of concept was created using 3D models sculpted in ZBrush and textures designed in Substance Painter. Rigging and animation was completed in Maya and then rendered using Arnold. Compositing was done in After Effects.
+
+</div>
