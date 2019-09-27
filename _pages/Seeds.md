@@ -81,7 +81,7 @@ permalink: /seeds
 <div class='embed-container'><iframe class="lazy" data-src='https://www.youtube.com/embed/R61n22gTkdo' frameborder='0' title ='0' allowfullscreen modestbranding='1' showinfo='0'></iframe></div>
 </div>
 
-<p>In 2017 I made a 360º video about blue pandas from outer space, emergent lifeforms, and non-linear love. The soundtrack was composed using crowdsourced audio recordings collected from fifty classmates and family members. <a href="https://soundcloud.com/exilevevo/i-may-not-be-ready-2-shit-out-a-liquid-diamond-and-share-it-but-i-can-try-kenji-remix" target="_blank">Remixed by Kenji Yamamoto.</a></p>
+<p>In 2017 I made a 360º video about blue pandas from outer space, emergent lifeforms, and non-linear love. The soundtrack was composed using crowdsourced audio recordings collected from fifty classmates and family members.</p>
 
 </div>
 
