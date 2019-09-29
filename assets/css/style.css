@@ -15,7 +15,7 @@ body {
 
 h1 {
 	font-family: Orbitron, Helvetica, Arial, sans-serif;
-	font-size: 3em;
+	font-size: 2.441em;
 }
 
 h1 a {
@@ -56,7 +56,7 @@ nav a.selected {
 }
 
 h2 {
-	font-size: 1.953em;
+	font-size: 1.563em;
 	font-family: Roboto, Helvetica, Arial, sans-serif;
 }
 
@@ -237,7 +237,7 @@ hr {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	margin: 30px 0;
+	margin: 1.5em 0;
 }
 
 .footer-icons li {
@@ -274,6 +274,10 @@ hr {
 		padding: 0.5em 0em 1em 0em;
 	}
 
+	nav li {
+		padding: 0px 0.4em;
+	}
+
 	p {
 		font-size: 1em;
 	}
@@ -284,14 +288,6 @@ hr {
 
 	section {
 		margin-top: -17px;
-	}
-
-}
-
-@media only screen and (max-width: 360px) {
-
-	nav a {
-		font-size: 1em;
 	}
 
 }

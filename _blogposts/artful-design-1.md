@@ -6,7 +6,7 @@ permalink: /artful-design-1
 
 <div class="project">
 
-#### Reading Response: Visible Aims v.s Subtle Preferences
+## Reading Response: Visible Aims v.s Subtle Preferences
 
 #### “Design…always entails the search for some yet unknown way of how the pieces fit together…with a specific set of visible aims and subtle preferences…” - pg. 39
 
@@ -45,9 +45,11 @@ The sound stopped me in my tracks. At first, I thought someone was playing ambie
 
 I realized that the sound was coming out of engines powering the equipment being used to clean the nearby apartment building. Each engine was oscillating at the same frequency. However, due to the wear-and-tear inherent to mechanical systems, each engine was slightly detuned. What emerged from this interplay of oscillating, detuned frequencies was a haunting, droning note, interspersed with all kinds of creaking, clacking, and buzzing noises that coalesced into the sound of mechanical crickets melancholically chirping on a summer night. I got closer to the trucks and something inside of me broke. I couldn’t think, I couldn’t process what was happening, I could only listen and surrender to what I was experiencing. The sound filled me, and filled me, and filled me. I quickly accepted that the boundary between my self, my body, and the sound was fraying. It hurt, but in a good way. It was *sublime*. 
 
-Were these vacuum truck engines designed to make this sound? Obviously not. Their function was to help clean carpets. Nevertheless, when placed next to each other they produced one of the most beautiful and engaging sounds I’ve ever heard. When considering why I found their singing so beautiful, I think about the shift of perspective that I experienced when listening to them. I’m used to hearing music produced intentionally by humans and technology. I am even familiar with birdsong and bugsound. But witnessing three machines making such stirring music—without any human involvement whatsoever—jolted me out of my everyday experience and thrust me into a wild world where everything is sentient and anything is possible. I firmly believe that any design artifact that elicits such a perspective shift is powerful indeed, even if this shift is completely unintended by the original maker. 
+Were these vacuum truck engines designed to make this sound? Obviously not. Their function was to help clean carpets. Nevertheless, when placed next to each other they produced one of the most beautiful and engaging sounds I’ve ever heard. When considering why I found their singing so beautiful, I think about the shift of perspective that I experienced when listening to them. I’m used to hearing music produced intentionally by humans and technology. I am even familiar with birdsong and bugsound. But witnessing three machines making such stirring music—without any human involvement whatsoever—jolted me out of my everyday experience and thrust me into a wild world where everything is sentient and anything is possible. I firmly believe that any design artifact that elicits such a perspective shift is powerful indeed, even if this shift is completely unintended by the original maker.[^1] 
 
 I am curious: could the lens of artful design expand to include such kinds of non-human intention and liveliness?
+
+[^1]: This makes me wonder about living in a world where all engines are designed not only to fulfill their mechanical function, but to make aesthetically pleasing sounds as well... what if our cars, airplanes, and lawnmowers also made really good ambient music?
 
 ---
 
@@ -61,10 +63,18 @@ Normally, education is seen as a means to an end. Take musical education, for ex
 
 ---
 
-Guerilla Design
+#### Guerilla Design
+
+I hiked the Dish this week and had a picnic with three friends. I decided to infiltrate our meal with some artful design. Instead of sitting down and immediately eating, I asked my friends to rub their hands together, generate heat, and to keep doing so as I said a few words. I briefly spoke about being thankful for the planet and the sun and all of the people that helped make our food. We ended by placing our heated hands over the food and sitting in silence for a few moments. It felt good to pause and sense the abundance in front of us.
+<html>
+<img class="lazy" data-src="/assets/img/blogposts/hike.jpg"><figcaption>The view after our picnic.</figcaption></html>
 
 ---
 
-ChucK Piece
+#### ChucK Piece
+
+Click [here](/assets/hmw/raul-chuck-1.zip) to download a .zip file containing triOsc.ckk and boom.ckk. Please run these in parallel with the command: "chuck triOsc.ck boom.ck".
+
+---
 
 </div>

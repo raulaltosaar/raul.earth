@@ -15,7 +15,7 @@ permalink: /projects
 
 <h2 class="arrow">Live.</h2>
 
-<h3>A series of visceral musical performances crafted using the Very Real Looper&mdash;an interface built out of a repurposed VR system&mdash;and detritus scavenged from industrial wastelands.</h3>
+<h3>A series of visceral musical performances. Crafted using an interface built out of a repurposed VR system and detritus scavenged from industrial wastelands.</h3>
 
 </a>
 
