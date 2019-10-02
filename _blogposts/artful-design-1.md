@@ -73,7 +73,7 @@ I hiked the Dish this week and had a picnic with three friends. I decided to inf
 
 #### ChucK Piece
 
-Click [here](/assets/hmw/raul-chuck-1.zip) to download a .zip file containing triOsc.ckk and boom.ckk. Please run these in parallel with the command: "chuck triOsc.ck boom.ck".
+Click [here](/assets/hmw/raul-chuck-1.zip) to download a .zip file containing triOsc.ck and boom.ck. Please run these in parallel with the command: "chuck triOsc.ck boom.ck".
 
 ---
 
