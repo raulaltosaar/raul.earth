@@ -6,6 +6,20 @@ permalink: /projects
 
 <html>
 
+<div class="project">
+
+<a href="/a-very-real-looper">
+
+<img class="lazy scale" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg">
+
+<h2 class="arrow">A Very Real Looper</h2>
+
+<h3>A VR musical interface that enables a performer to spatially interact with sound through haptics—without a headset. <!-- Using this interface, virtual sounds can be placed anywhere in physical space. Music is then performed by touching objects and jumping around wildly. --></h3>
+
+</a>
+
+</div>
+
 
 <div class="project">
 
@@ -15,28 +29,11 @@ permalink: /projects
 
 <h2 class="arrow">Live.</h2>
 
-<h3>A series of visceral musical performances. Crafted using an interface built out of a repurposed VR system and detritus scavenged from industrial wastelands.</h3>
+<h3>A series of live performances crafted using the Looper and detritus scavenged from industrial wastelands.</h3>
 
 </a>
 
 </div>
-
-
-
-<div class="project">
-
-<a href="/a-very-real-looper">
-
-<img class="lazy scale" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg">
-
-<h2 class="arrow">A Very Real Looper</h2>
-
-<h3>A custom musical interface that enables virtual sounds to be placed anywhere in physical space. Music is then performed by touching objects and jumping around wildly.</h3>
-
-</a>
-
-</div>
-
 
 
 <div class="project">
@@ -47,7 +44,7 @@ permalink: /projects
 
 <h2 class="arrow">Liquefied Realities</h2>
 
-<h3>I invited some computer vision algorithms to visit underground construction sites and abandoned factories with me. Together, we created an interactive virtual reality environment. </h3>
+<h3>An interactive VR environment created using computer vision algorithms.<!-- I invited some computer vision algorithms to visit underground construction sites and abandoned factories with me. Together, we created an interactive virtual reality environment. --> </h3>
 
 </a>
 
@@ -63,7 +60,7 @@ permalink: /projects
 
 <h2 class="arrow">Computationally Disintegrative Therapy</h2>
 
-<h3>A mixed reality installation in which viewers were invited to physically navigate a virtual environment filled with decrepit machines and starfields.</h3>
+<h3>A mixed reality installation in which viewers physically navigated a virtual environment. <!-- filled with decrepit machines and starfields. --></h3>
 
 </a>
 
@@ -95,7 +92,7 @@ permalink: /projects
 
 <h2 class="arrow">Alliance</h2>
 
-<h3>A speculative AR application designed to reveal uncanny creatures in urban wastelands.</h3>
+<h3>A speculative AR application designed to reveal strange creatures in urban wastelands.</h3>
 
 </a>
 
