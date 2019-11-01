@@ -14,7 +14,7 @@ permalink: /alliance
 
 ## Alliance ## 
 
-A speculative, location-based AR application designed to reveal non-human creatures in specific urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a> 
+A speculative, location-based AR application designed to reveal non-human forces in specific urban wastelands such as the <a href="https://goo.gl/maps/Wr7pGXvaZhU8FgN86" target="_blank">Leslie Street Spit.</a> 
 
 This proof of concept was created using 3D models sculpted in ZBrush and textures designed in Substance Painter. Rigging and animation was completed in Maya and then rendered using Arnold. Compositing was done in After Effects.
 

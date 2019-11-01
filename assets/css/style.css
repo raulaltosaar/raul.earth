@@ -142,7 +142,7 @@ ul {
 }
 
 nav li {
-	padding: 0px 1em;
+	padding: 0px 1.5em;
 	display: inline;
 }
 
@@ -275,7 +275,7 @@ hr {
 	}
 
 	nav li {
-		padding: 0px 0.4em;
+		padding: 0px 0.8em;
 	}
 
 	p {
