@@ -129,7 +129,7 @@ permalink: /seeds
 <img class="lazy" data-src="/assets/img/pages/seeds/green.jpg">
 <img class="lazy" data-src="/assets/img/pages/seeds/blue.jpg">
 
-<p>Many years ago I regularly took photographs. This work has been exhibited at the <a href="http://i-p-f.org/" target="_blank">Independent Photography Festival</a> in Melbourne, Australia and has been published by Incandescent Zine, CZE magazine, lightrad.ius, Waterfall Zine, and Camera Diynamite.</p>
+<p>Many years ago I regularly took photographs. This work has been exhibited at the <a href="http://i-p-f.org/" target="_blank">Independent Photography Festival</a> in Melbourne, Australia and has been published by Incandescent Zine, CZE magazine, lightrad.ius, Waterfall Zine, and <a href="https://issuu.com/cameradiynamitezine/docs/saohell" target="_blank">Camera Diynamite.</a></p>
 
 </div>
 
