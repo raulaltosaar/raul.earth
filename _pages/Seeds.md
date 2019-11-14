@@ -8,9 +8,19 @@ permalink: /seeds
 
 <div class="project">
 
+  <img class="lazy" data-src="../assets/img/pages/seeds/collapse.jpg">
+
+  <p>I wrote <a href="https://ccrma.stanford.edu/~raul/220a/hw3/index.html" target="_blank">Collapse</a>, a short Web Audio composition about a lost automation device walking beneath an empty megacity.</p>
+
+</div>
+
+<hr>
+
+<div class="project">
+
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/655004264&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe>
 
-  <p>I recently made a mixtape to explore the sound of life throbbing on a damaged planet; the sound of entire worlds rising and falling, screaming out of grief and elation.</p>
+  <p>I made a mixtape to explore the sound of life throbbing on a damaged planet; the sound of entire worlds rising and falling, screaming out of grief and elation.</p>
 
 </div>
 
