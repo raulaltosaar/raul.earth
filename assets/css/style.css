@@ -103,6 +103,11 @@ p a:hover {
   color: #a7a7a7;
 }
 
+::selection {
+	color: transparent;
+	text-shadow: 0 0 2px #a7a7a7;
+};
+
 /*  ========================= A R C H I T E C T U R E ====================== */
 
 html{
