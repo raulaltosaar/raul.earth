@@ -12,13 +12,13 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/live/altosaar-featured-image-2.jpg">
 
-<h2 class="arrow">Live.</h2>
 
-<h3>A series of live performances crafted using the Looper and detritus scavenged from industrial wastelands.</h3>
+<div class="project-title"><h2>Live.</h2></div>
 
 </a>
 
 </div>
+
 
 <div class="project">
 
@@ -26,9 +26,8 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg">
 
-<h2 class="arrow">A Very Real Looper</h2>
+<div class="project-title"><h2>The Looper</h2></div>
 
-<h3>A custom musical interface built using a repurposed VR system. Sound can be placed anywhere in physical space using the Looper. Music is then performed by touching objects and jumping around wildly.</h3>
 
 </a>
 
@@ -41,9 +40,8 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/liquefied-realities/1stroom.jpg">
 
-<h2 class="arrow">Liquefied Realities</h2>
+<div class="project-title"><h2>Liquefied Realities</h2></div>
 
-<h3>I invited some computer vision algorithms to visit underground construction sites and abandoned factories with me. Together, we created this interactive VR environment. </h3>
 
 </a>
 
@@ -57,9 +55,7 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/computationally-disintegrative-therapy/standing.jpg">
 
-<h2 class="arrow">Disintegration</h2>
-
-<h3>A mixed reality installation in which viewers physically navigated a virtual environment filled with decrepit machines and starfields.</h3>
+<div class="project-title"><h2>Disintegration</h2></div>
 
 </a>
 
@@ -73,9 +69,8 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/gesture-cloud/pigeons_2.jpg">
 
-<h2 class="arrow">Gesture Cloud</h2>
+<div class="project-title"><h2>Gesture Cloud</h2></div>
 
-<h3>Volumetric videos converted into animated point clouds and staged in a virtual reality environment.</h3>
 
 </a>
 
@@ -89,9 +84,8 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/alliance/alliance_flag.jpg">
 
-<h2 class="arrow">Alliance</h2>
+<div class="project-title"><h2>Alliance</h2></div>
 
-<h3>A speculative AR application designed to reveal non-human forces in urban wastelands.</h3>
 
 </a>
 
