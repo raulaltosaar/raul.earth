@@ -4,9 +4,9 @@
 
 <!-- 
 
-"...escaping laterally toward each other, we might just find that everything we wanted is already here."
+"No ideas but in things."
 
-- Jenny Odell, 2019 
+- William Carlos Williams
 
 -->
 
@@ -14,15 +14,15 @@
 
 <meta charset="UTF-8">
 <title>{{page.title}}</title>
-<meta name="description" content="I'm an artist and researcher, currently building and performing with custom musical interfaces.">
-<meta name="keywords" content="raul altosaar, raul, art, artist, technology, performance, musical interface, music, stanford">
+<meta name="description" content="I'm an artist and researcher. I build and perform with new musical instruments.">
+<meta name="keywords" content="raul altosaar, raul, art, sound, artist, technology, performance, instrument, music, stanford">
 
 <!-- Twitter Cards -->
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="/assets/img/misc/rathumb.jpg">
 <meta name="twitter:title" content="Raul Altosaar">
-<meta name="twitter:description" content="I'm an artist and researcher, currently building and performing with custom musical interfaces.">
+<meta name="twitter:description" content="I'm an artist and researcher. I build and perform with new musical instruments.">
 <meta name="twitter:creator" content="@raltosaar">
 
 <!-- Google & Bing Verification -->
@@ -33,7 +33,7 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Raul Altosaar">
-<meta property="og:description" content="I'm an artist and researcher, currently building and performing with custom musical interfaces.">
+<meta property="og:description" content="I'm an artist and researcher. I build and perform with new musical instruments.">
 <meta property="og:url" content="/">
 <meta property="og:site_name" content="Raul Altosaar">
 <meta property="og:image" content="/assets/img/misc/rathumb.jpg">
@@ -66,22 +66,16 @@
 
 <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@12.0.0/dist/lazyload.min.js"></script>
 
-<!-- highlight current page in nav -->
-
-<script>
-    $(function () {
-        $('nav a').each(function () {
-            if ($(this).prop('href') == window.location.href) {
-                $(this).addClass('selected');
-            }
-        });
-    });
-</script>
+<script src="./assets/js/main.js"></script>
 
 </head>
 
 <body>
 
+  <svg id="fader"></svg>
+  <script>
+    fadeInPage();
+  </script>
 
 	<header>
 		<h1><a href="/"><i>raul altosaar</i></a></h1>
