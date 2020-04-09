@@ -170,7 +170,7 @@ nav {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	padding: 0.7em 10vw 0px;
+	padding: 0.8em 10vw 0px;
 }
 
 ul {
@@ -329,6 +329,10 @@ hr {
 
 	.project ul {
 		font-size: 1em;
+	}
+
+	main {
+		margin-top: 0.8em;
 	}
 
 	section {
