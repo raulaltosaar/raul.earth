@@ -40,7 +40,7 @@ permalink: /projects
 
 <img class="lazy scale" data-src="../assets/img/projects/liquefied-realities/1stroom.jpg">
 
-<div class="project-title"><h2>Liquefied Realities</h2></div>
+<div class="project-title"><h2 class="small">Liquefied Realities</h2></div>
 
 
 </a>

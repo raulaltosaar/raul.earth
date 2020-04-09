@@ -314,6 +314,10 @@ hr {
 		font-size: 2em;
 	}
 
+	.small {
+		font-size: 1.3em;
+	}
+
 	nav {
 		width: 100vw;
 		padding: 0.5em 0em 1em 0em;
@@ -339,4 +343,10 @@ hr {
 		margin-top: -1.7em;
 	}
 
+}
+
+@media only screen and (max-width: 700px) {
+	.small {
+		font-size: 1em;
+	}
 }
