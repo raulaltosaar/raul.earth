@@ -6,39 +6,6 @@ html {
 	font-size: 16px;
 }
 
-#fader {
-	position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 999999;
-    pointer-events: none;
-    background: black;
-    animation-duration: 300ms;
-    animation-timing-function: ease-in-out;
-}
-
-@keyframes fade-out {
-    from { opacity: 1 }
-      to { opacity: 0 }
-}
-
-@keyframes fade-in {
-    from { opacity: 0 }
-      to { opacity: 1 }
-}
-
-#fader.fade-out {
-    opacity: 0;
-    animation-name: fade-out;
-}
-
-#fader.fade-in {
-    opacity: 1;
-    animation-name: fade-in;
-}
-
 body {
 	font-family: Arimo, Helvetica, Arial, sans-serif;
 	color: white;
@@ -151,6 +118,40 @@ body {
 }
 
 
+#fader {
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+    pointer-events: none;
+    background: black;
+    animation-duration: 300ms;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes fade-out {
+    from { opacity: 1 }
+      to { opacity: 0 }
+}
+
+@keyframes fade-in {
+    from { opacity: 0 }
+      to { opacity: 1 }
+}
+
+#fader.fade-out {
+    opacity: 0;
+    animation-name: fade-out;
+}
+
+#fader.fade-in {
+    opacity: 1;
+    animation-name: fade-in;
+}
+
+
 /* ======= N A V ======= */
 
 
@@ -191,6 +192,7 @@ main {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	margin-top: 0.3em;
 }
 
 section {
@@ -209,7 +211,6 @@ h2, h3 {
 }
 
 .project {
-	margin: 1.5em 0px 3em;
 	position: relative;
 	width: 100%;
 }
@@ -238,7 +239,7 @@ h2, h3 {
 
 img {
 	width: 100%;
-	margin: 1.3em 0 0;
+	margin: 1.7em 0 0;
 }
 
 .media {
@@ -331,7 +332,7 @@ hr {
 	}
 
 	section {
-		margin-top: -17px;
+		margin-top: -1.7em;
 	}
 
 }
