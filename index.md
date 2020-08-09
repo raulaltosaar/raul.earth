@@ -3,7 +3,7 @@ title: Raul Altosaar
 layout: default
 ---
 
-I am an artist and researcher. I build new instruments using custom software and hardware. Through live performance, I use sound to create a connection between the landscape, my body, and technology. Currently, I am a master's student at [CCRMA](https://ccrma.stanford.edu/about){:target="_blank"} where I am a member of the [PIG](https://ccrma.stanford.edu/groups/pig/index.html){:target="_blank"} research group. Feel free to view [my CV](/assets/pdf/Altosaar-CV.pdf){:target="_blank"} or [get in touch](mailto:raul@ccrma.stanford.edu){:target="_blank"} to ask why [I believe in bugs](https://www.youtube.com/watch?v=jlUvfJnREO8){:target="_blank"}. 
+I am an artist and researcher. I build new instruments using custom software and hardware. Currently, I am a master's student at [CCRMA](https://ccrma.stanford.edu/about){:target="_blank"} where I am a member of the [PIG](https://ccrma.stanford.edu/groups/pig/index.html){:target="_blank"} research group. Feel free to view [my CV](/assets/pdf/Altosaar-CV.pdf){:target="_blank"} or [get in touch](mailto:raul@ccrma.stanford.edu){:target="_blank"} to ask why [I believe in bugs](https://www.youtube.com/watch?v=jlUvfJnREO8){:target="_blank"}. 
 
 This summer, I'm helping teach a workshop on [physical interaction design for music](http://sashaleitman.com/dpi4m-2020/){:target="_blank"} with Sasha Leitman and Roger Linn.
 <html>
