@@ -1,0 +1,89 @@
+I"A<html>
+
+<div class="project">
+
+<a href="/live">
+
+<img class="lazy scale" data-src="../assets/img/projects/live/altosaar-featured-image-2.jpg" />
+
+
+<div class="project-title"><h2>Live.</h2></div>
+
+</a>
+
+</div>
+
+
+<div class="project">
+
+<a href="/a-very-real-looper">
+
+<img class="lazy scale" data-src="../assets/img/projects/a-very-real-looper/looper-jump.jpg" />
+
+<div class="project-title scale"><h2>The Looper</h2></div>
+
+
+</a>
+
+</div>
+
+
+<div class="project">
+
+<a href="/liquefied-realities">
+
+<img class="lazy scale" data-src="../assets/img/projects/liquefied-realities/1stroom.jpg" />
+
+<div class="project-title"><h2 class="small">Liquefied Realities</h2></div>
+
+
+</a>
+
+</div>
+
+
+
+<div class="project">
+
+<a href="/disintegration">
+
+<img class="lazy scale" data-src="../assets/img/projects/computationally-disintegrative-therapy/standing.jpg" />
+
+<div class="project-title"><h2>Disintegration</h2></div>
+
+</a>
+
+</div>
+
+
+
+<div class="project">
+
+<a href="/gesture-cloud">
+
+<img class="lazy scale" data-src="../assets/img/projects/gesture-cloud/pigeons_2.jpg" />
+
+<div class="project-title"><h2>Gesture Cloud</h2></div>
+
+
+</a>
+
+</div>
+
+
+
+<div class="project">
+
+<a href="/alliance">
+
+<img class="lazy scale" data-src="../assets/img/projects/alliance/alliance_flag.jpg" />
+
+<div class="project-title"><h2>Alliance</h2></div>
+
+
+</a>
+
+</div>
+
+</html>
+:ET

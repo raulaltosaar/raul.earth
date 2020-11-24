@@ -1,0 +1,34 @@
+I"E	<div class="project">
+
+  <div style="padding:56.25% 0 0 0;position:relative;" class="media">
+    <iframe src="https://player.vimeo.com/video/298267748?title=0&amp;byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+
+  <h2 id="liquefied-realities">Liquefied Realities</h2>
+
+  <p>This project was born out of my dislike for archetypal virtual environments that, in all of their hyperrealism, felt disconnected from our fuzzy perception of the real world.</p>
+
+  <p>To challenge this paradigm, I crafted an interactive VR environment by relinquishing creative control to computer vision algorithms. Together, we visited underground construction sites, demolition yards, and abandoned factories in Toronto. This is what we saw.</p>
+
+  <html>
+<img class="lazy" data-src="assets/img/projects/liquefied-realities/crane_IRL.jpg" />
+<figcaption>On location in a construction site.</figcaption>
+
+<img class="lazy" data-src="assets/img/projects/liquefied-realities/lead.jpg" />
+<figcaption>Inside the virtual environment.</figcaption>
+
+<img class="lazy" data-src="assets/img/projects/liquefied-realities/kid.jpg" />
+<figcaption>A young viewer enjoys some liquid reality at the Ontario Science Centre.</figcaption>
+
+<img class="lazy" data-src="assets/img/projects/liquefied-realities/stairwell2.jpg" />
+
+<img class="lazy" data-src="assets/img/projects/liquefied-realities/crane.jpg" />
+</html>
+
+  <hr />
+
+  <p>In 2018, this project was included in the <a href="https://computervisionart.com/" target="_blank">First Workshop on Computer Vision for Fashion, Art and Design</a> at the European Conference on Computer Vision in Munich, Germany. In 2017, it was exhibited in the <a href="http://www.lastfestival.com/" target="_blank">LAST Festival</a> at Stanford University and in the <a href="http://www.sciartinitiative.org/tech-art-fair-2018.html" target="_blank">Tech Art Fair</a> at the Ontario Science Centre. This project was also used to create <a href="https://vimeo.com/298678871" target="_blank">a music video</a> for musician <a href="https://www.instagram.com/juliussmack/" target="_blank">Julius Smack</a>. Sound design for this project was done by Liam Baker.</p>
+
+</div>
+:ET

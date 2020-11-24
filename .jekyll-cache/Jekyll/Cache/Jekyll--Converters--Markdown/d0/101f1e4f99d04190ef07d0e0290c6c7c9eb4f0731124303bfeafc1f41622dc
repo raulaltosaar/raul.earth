@@ -1,0 +1,20 @@
+I"ú<div class="project">
+
+  <p><img class="lazy" data-src="assets/img/projects/gesture-cloud/pigeons_2.jpg" /></p>
+
+  <h2 id="gesture-cloud">Gesture Cloud</h2>
+
+  <p>In the summer of 2018 I was a research assistant to professor <a href="http://www.readingpictures.com/about.html" target="_blank">Judith Doyle</a>, Principal Investigator of the <a href="http://gesturecloud.ca/about" target="_blank">Social Media and Collaboration Lab</a> at OCAD University. I worked on this project in collaboration with <a href="https://willy-vvu.github.io/" target="_blank">William Wu</a> at MIT.</p>
+
+  <p>We were tasked with converting archival volumetric videos into animated point clouds and staging them in a virtual reality environment. Noise algorithms were then added to these animations in order to reveal gesture and motion trajectories.</p>
+
+  <p>My role in the project focused on technically implementing our solutions in Unreal Engine 4.</p>
+
+  <p>A final proof-of-concept of the animated point clouds can be viewed <a href="https://vimeo.com/287691875" target="_blank">here</a>.</p>
+
+  <p><img class="lazy" data-src="assets/img/projects/gesture-cloud/white_cloud.jpg" /></p>
+
+  <p><img class="lazy" data-src="assets/img/projects/gesture-cloud/gesture-cloud.jpg" /></p>
+
+</div>
+:ET
